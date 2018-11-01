@@ -1,0 +1,4 @@
+[{'acc': [0.10011999964714051, 0.0, 0.0, 0.0, 0.0],
+  'loss': [nan, nan, nan, nan, nan],
+  'val_acc': [0.0, 0.0, 0.0, 0.0, 0.0],
+  'val_loss': [nan, nan, nan, nan, nan]}]
