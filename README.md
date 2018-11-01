@@ -14,6 +14,8 @@ This homework makes use of [jupyter notebook](http://jupyter.org/) written in py
 
 `Report.ipynb`: Reported findings of hyperparameter tuning.
 
+`experiments`: Runs for each model (Vanilla RNN, LST) and for each state, giving the final testscore of accuracy and loss, as well as the history of the accuracy and loss after each epoch.
+
 ## GitHub
 
 This homework can also be found on the following [github account](https://github.com/sofa13/csi5138_a3).
